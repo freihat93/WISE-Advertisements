@@ -1,11 +1,52 @@
-# Sample Snack app
+ 
+[![Language](https://img.shields.io/badge/language-Swift%205.0-orange.svg)](https://swift.org)
+[![Build Status][travis-image]][travis-url]
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
+# WISE advertisements
+<br />
+<p align="center">
+  <a href="[https://github.com/freihat93/Deltna.git]">
+    <img src="https://github.com/freihat93/Deltna/blob/main/Deltna/Assets.xcassets/logo.imageset/%D8%AF%D9%84%D8%AA%D9%86%D8%A7.png" alt="Logo" width="80" height="100">
+  </a>
+  <p align="center">
+    <a>I built this application as a graduation project at the university, and the function of the application was to convert university advertisements into digital advertisements.</a>
+  </p>
+</p>
+<p align="center">
+<img src= "https://i.ibb.co/m0dGBhN/captures-chrome-capture-2022-8-22-3.png" height="300" width="150" >
+ <img src= "https://i.ibb.co/FWFW9r5/captures-chrome-capture-2022-8-22.png" height="300" width="150" >
+</p>
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
+<p align="center">
+<img src= "https://i.ibb.co/ZHjZwJK/captures-chrome-capture-2022-8-22-2.png" >
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
+</p>
+<p align="center">
+
+<img src= "https://i.ibb.co/p3ZX7V1/captures-chrome-capture-2022-8-22-4.png"  >
+</p>
+
+
+
+
+
+
+
+
+
+## Linkedin & Gmail
+
+[@Mohammed Freihat](https://www.linkedin.com/in/mohammad-freihat-045261105/) – Freihat120@gmail.com
+
+
+[swift-image]:https://img.shields.io/badge/swift-3.0-orange.svg
+[swift-url]: https://swift.org/
+[license-image]: https://img.shields.io/badge/License-MIT-blue.svg
+[license-url]: LICENSE
+[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
+[codebeat-image]: https://codebeat.co/badges/c19b47ea-2f9d-45df-8458-b2d952fe9dad
+[codebeat-url]: https://codebeat.co/projects/github-com-vsouza-awesomeios-com
