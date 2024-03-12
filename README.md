@@ -2,26 +2,14 @@
 # WISE advertisements
 <br />
 <p align="center">
-  <a href="[https://github.com/freihat93/Deltna.git]">
-   // <img src=".png" alt="Logo" width="80" height="100">
-  </a>
+ 
   <p align="center">
     <a>I built this application as a graduation project at the university, and the function of the application was to convert university advertisements into digital advertisements.</a>
   </p>
 </p>
-<p align="center">
-<img src= ".png" height="300" width="150" >
- <img src= ".png" height="300" width="150" >
-</p>
 
-<p align="center">
-<img src= "https://i.ibb.co/ZHjZwJK/captures-chrome-capture-2022-8-22-2.png" >
 
-</p>
-<p align="center">
 
-<img src= "https://i.ibb.co/p3ZX7V1/captures-chrome-capture-2022-8-22-4.png"  >
-</p>
 
 
 
